@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../5.1. Adding CSS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Sitio frreelancer",
+		"liveServer.settings.port": 5501
+	}
+}
